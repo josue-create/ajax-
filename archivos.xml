@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<personas>
+
+  <persona>
+    <nombre>Josue</nombre>
+    <apellidos>Castillo Vizcaino</apellidos>
+    <fechaNacimiento>04/11/2000</fechaNacimiento>
+  </persona>
+
+  <persona>
+    <nombre>Raul</nombre>
+    <apellidos>Lorenzo Carmona</apellidos>
+    <fechaNacimiento>12/03/1997</fechaNacimiento>
+  </persona>
+
+  <persona>
+    <nombre>Jorge</nombre>
+    <apellidos>Huerta Sanchez</apellidos>
+    <fechaNacimiento>19/05/1999</fechaNacimiento>
+  </persona>
+
+  <persona>
+    <nombre>Patricia</nombre>
+    <apellido>Vizcaino Serratos</apellido>
+    <fechaNacimiento>31/12/1970</fechaNacimiento>
+  </persona>
+
+  <persona>
+    <nombre>Arturo</nombre>
+    <apellido>Limon Castañeda</apellido>
+    <fechaNacimiento>23/09/1994</fechaNacimiento>
+  </persona>
+
+  <persona>
+    <nombre>Alexis</nombre>
+    <apellido>Limon Castañeda</apellido>
+    <fechaNacimiento>12/10/1989s</fechaNacimiento>
+  </persona>
+
+</personas>
